@@ -1,17 +1,61 @@
 {
   "version": "1.0",
   "style": "LifeFit hand-drawn cartoon, transparent PNG",
-  "base_path": "lifefit_question_images/",
+  "base_path": "survey-options-v1/",
   "images": {
-    "Q1": {"P": "Q1_P.png", "D": "Q1_D.png", "V": "Q1_V.png", "C": "Q1_C.png"},
-    "Q2": {"T": "Q2_T.png", "M": "Q2_M.png", "V": "Q2_V.png", "C": "Q2_C.png"},
-    "Q3": {"T": "Q3_T.png", "M": "Q3_M.png", "P": "Q3_P.png", "D": "Q3_D.png"},
-    "Q4": {"Q": "Q4_Q.png", "M": "Q4_M.png", "D": "Q4_D.png", "C": "Q4_C.png"},
-    "Q5": {"Q": "Q5_Q.png", "M": "Q5_M.png", "P": "Q5_P.png", "V": "Q5_V.png"},
-    "Q6": {"Q": "Q6_Q.png", "T": "Q6_T.png", "D": "Q6_D.png", "V": "Q6_V.png"},
-    "Q7": {"Q": "Q7_Q.png", "T": "Q7_T.png", "P": "Q7_P.png", "C": "Q7_C.png"},
-    "Q8": {"A": "Q8_A.png", "B": "Q8_B.png"},
-    "Q9": {"A": "Q9_A.png", "B": "Q9_B.png"},
-    "Q10": {"A": "Q10_A.png", "B": "Q10_B.png"}
+    "Q1": {
+      "P": "Q1_P.png",
+      "D": "Q1_D.png",
+      "V": "Q1_V.png",
+      "C": "Q1_C.png"
+    },
+    "Q2": {
+      "T": "Q2_T.png",
+      "M": "Q2_M.png",
+      "V": "Q2_V.png",
+      "C": "Q2_C.png"
+    },
+    "Q3": {
+      "T": "Q3_T.png",
+      "M": "Q3_M.png",
+      "P": "Q3_P.png",
+      "D": "Q3_D.png"
+    },
+    "Q4": {
+      "Q": "Q4_Q.png",
+      "M": "Q4_M.png",
+      "D": "Q4_D.png",
+      "C": "Q4_C.png"
+    },
+    "Q5": {
+      "Q": "Q5_Q.png",
+      "M": "Q5_M.png",
+      "P": "Q5_P.png",
+      "V": "Q5_V.png"
+    },
+    "Q6": {
+      "Q": "Q6_Q.png",
+      "T": "Q6_T.png",
+      "D": "Q6_D.png",
+      "V": "Q6_V.png"
+    },
+    "Q7": {
+      "Q": "Q7_Q.png",
+      "T": "Q7_T.png",
+      "P": "Q7_P.png",
+      "C": "Q7_C.png"
+    },
+    "Q8": {
+      "A": "Q8_A.png",
+      "B": "Q8_B.png"
+    },
+    "Q9": {
+      "A": "Q9_A.png",
+      "B": "Q9_B.png"
+    },
+    "Q10": {
+      "A": "Q10_A.png",
+      "B": "Q10_B.png"
+    }
   }
 }
